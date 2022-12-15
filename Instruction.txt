@@ -1,0 +1,10 @@
+1.Open your Arduino IDE and go to "File -> Preferences -> Boards Manager URLs" and paste the following link: http://arduino.esp8266.com/stable/package_esp8266com_index.json
+
+2.Go to "Tools -> Board -> Boards Manager", search "esp8266" and install esp8266
+
+3. Go to "Tools -> Board" and select you board"
+
+4. Download and open the sketch "WiFi_Captive_Portal.ino"
+
+5. Upload the code into your board.
+You are done!
